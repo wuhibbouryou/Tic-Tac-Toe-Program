@@ -1,0 +1,3 @@
+To run this program, either run it through the Netbeans IDE(or your preffered IDE) or run it throught the CMD terminal
+To run through the terminal, cd to the file directory and type "javac CustomOutputStream.java gameBoard.java" to compile the program. Then type "java gameBoard" or
+"java (name of package).gameBoard"
